@@ -68,11 +68,9 @@ Luxury campaigns for Cluster 1 (20%).
 Engagement strategies for Cluster 2 (15%).
 
 Revenue Growth:
-
 55% of customers (Clusters 1 + 3 + 4) show strong potential for revenue maximization.
 
 Resource Allocation:
-
 Reduce efforts on Cluster 5 (15%) to optimize ROI.
 
 Customer Loyalty Programs:
